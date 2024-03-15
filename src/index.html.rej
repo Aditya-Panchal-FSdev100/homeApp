@@ -1,0 +1,9 @@
+diff a/src/index.html b/src/index.html	(rejected hunks)
+@@ -11,6 +11,6 @@
+ </head>
+ <body>
+   <app-root></app-root>
+-  <h2> hello world! </h2>
++  <h2> hello world!
+ </body>
+ </html>
